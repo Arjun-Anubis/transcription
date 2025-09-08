@@ -15,6 +15,8 @@ parser = ap.ArgumentParser(
     epilog = epilogue
 )
 
+parser.add_argument("file", 
+                    help="The mp3 file to transcribe" )
 parser.add_argument("-m", "--model", 
                     help="Choose the model to user, tiny, base, turbo" )
 
