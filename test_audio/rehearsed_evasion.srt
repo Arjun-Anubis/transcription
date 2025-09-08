@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:04,700
+As I always say, I handle the full life cycle.
+
+2
+00:00:05,320 --> 00:00:06,600
+You know that line, right?
+
+3
+00:00:07,240 --> 00:00:09,240
+I design, I implement, I ship.
+
+4
+00:00:09,680 --> 00:00:11,540
+Well, I help design.
+
+5
+00:00:12,040 --> 00:00:14,420
+I implement certain components.
+
+6
+00:00:14,920 --> 00:00:16,380
+And I ship some features.
+
+7
+00:00:17,880 --> 00:00:20,920
+The life cycle is a team thing.
+
+8
+00:00:21,360 --> 00:00:26,420
+So when I say I handled it, I mean I handled part of it.
+
+9
+00:00:26,900 --> 00:00:29,500
+It's cleaner to tell it like that.
+
+10
+00:00:30,000 --> 00:00:30,640
+Shhh.
+
+11
+00:00:30,640 --> 00:00:31,640
+Shhh.
+
